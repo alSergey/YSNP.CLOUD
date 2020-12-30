@@ -1,0 +1,4 @@
+ADD_SUBDIRECTORY(server)
+ADD_SUBDIRECTORY(storageServer)
+ADD_SUBDIRECTORY(syncServer)
+#ADD_SUBDIRECTORY(authorizationServer)

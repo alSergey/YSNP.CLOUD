@@ -1,0 +1,17 @@
+{
+  "log": {
+    "state": "release",
+    "file": ""
+  },
+  "serverConfig": {
+    "workersCount": 1
+  },
+  "networkConfig": {
+    "port": 5555,
+    "backlog": 10
+  },
+  "clientWorkerConfig": {
+    "requestWorkersCount": 1,
+    "responseWorkersCount": 1
+  }
+}
